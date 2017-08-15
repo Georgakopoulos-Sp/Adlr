@@ -3,7 +3,19 @@
 
 This is an adaptive learning rate algorithm for Convolutional Neural Networks training, presented on 18th International Conference on Engineering Applications of Neural Networks 2017 (EANN 2017). The algorithm's code has take some modifications in comparison with the prototype one, making it more stable. The gamma_1, gamma_2 and gamma_3 parameters values are fixed according to the paper. The algorithm is implemented with the help of the Caffe framework.
 
-Please cite AdLR in your publications if it helps your research: ... 
+Please cite AdLR in your publications if it helps your research:
+    @Inbook{Georgakopoulos2017,
+        author="Georgakopoulos, S. V.
+        and Plagianakos, V. P.",
+        title="A Novel Adaptive Learning Rate Algorithm for Convolutional Neural Network Training",
+        bookTitle="Engineering Applications of Neural Networks: 18th International Conference, EANN 2017, Athens, Greece, August 25--27, 2017, Proceedings",
+        year="2017",
+        publisher="Springer International Publishing",
+        address="Cham",
+        pages="327--336",
+    }
+
+As well as the following:
 
 ## Caffe
 
